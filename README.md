@@ -20,3 +20,4 @@ If the button's innerHTML is 'DEL', it means the user wants to delete the last c
 If none of the above conditions match, it means the user clicked a digit or an operator button. The innerHTML of the clicked button is appended to the string, and the input value is updated.
 
 By using event listeners and checking the innerHTML of the clicked button, this code allows the user to input mathematical expressions and perform calculations in the calculator interface.
+ --By Tanvi
